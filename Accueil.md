@@ -1,0 +1,2 @@
+# Bienvenue sur l'AstroLexique !
+L'**AstroLexique** est comme sa description l'indique, le wiki de référence en matière d'[astronomie](/Pages/Vocabulaire/Astronomie.md), mais également dans les domaines de l'[astronautique](/Pages/Vocabulaire/Astronautique.md), l'[astrobiologie](/Pages/Vocabulaire/Astrobiologie.md), etc., tout ce qui touche à l'[espace](/Pages/Vocabulaire/Espace.md) et à l'[Univers](/Pages/Vocabulaire/Univers.md).
